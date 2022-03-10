@@ -1,4 +1,4 @@
-/* WAP to create to 3*3 matrics & print multiplication of it
+/* WAP to create to 3*3 matrix & print multiplication of it
 Program 3 */
 #include<stdio.h>
 #include<conio.h>
